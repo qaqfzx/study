@@ -1,0 +1,142 @@
+https://blog.csdn.net/u011781521/article/details/79669180
+
+Ctrl Shift F12  代码区最大
+
+Ctrl insert 生成，新建
+
+Ctrl Shift Enter 补全
+
+Shift Enter 跳到下一行的开始
+
+
+Ctrl Shift N  全局搜索
+
+Ctrl E  最近打开的文件
+
+
+
+
+ctrl + o 选择要实现的方法   重写 类实现接口的方法
+
+fori   for循环
+数组的变量名.iter  增强for循环
+
+变量名.for
+
+sout  system.out.println()
+变量名.soutv
+
+alt + 回车    方法内 return 对象名    对象还没创建  
+new 对象（）.var 创建对象
+Ctrl Alt 空格  自动提示（根据. 后面的自动提示可能的方法）
+Ctrl p	  方法的参数名提示
+
+Ctrl + alt + o   移除没有用的导入包
+
+ctrl  h  查看接口的实现类
+
+ 
+Ctrl -    或者 Ctrl Shift -   折叠代码  
+Ctrl +    或者 Ctrl Shift +   扩展代码
+
+Ctrl Shift + F10 运行某一个方法
+
+
+Ctrl Shift U 大写
+
+Alt F8 或Alt 左击  debug时表达式查询  
+
+Ctrl + D 复制到下一行
+
+Ctrl  Alt L  格式化代码格式
+
+Ctrl Alt 方向键   上次查看代码的位置
+
+Ctrl Alt T 				if else 	try catch
+
+Ctrl Alt M                                      提取公共方法
+
+Ctrl G			跳转到指定行
+
+
+intellij idea移动至方法块末尾的快捷键:
+
+1、move caret to code block end   移动到末尾
+ctrl+]
+
+2、move caret to code block end with selection 移动到末尾并选择
+ctrl+shit+]
+
+3、move caret to code block start 移动到开始
+ctrl+[
+
+4、move caret to code block start with selection 移动到开始并选择
+ctrl+shit+[
+
+
+
+alt + F1 定位   有很多选项可以选择    松开后按对应的按键
+	 
+alt  + 1   切换页面        编码页面  和 project 页面
+alt + 7 类结构
+alt + 4  框架结构
+
+
+F3 查找下一个
+
+向下的箭头
+
+shift + F3 上一个
+
+Ctrl Alt Shift J   编码规约扫描
+
+Ctrl Shift O  获取代码示例   
+Ctrl Shift Y  搜索代码       
+
+Ctrl Shift G  缩小的预览
+
+
+Ctrl E 最近的页面
+
+Ctrl Shift C  类路径
+Ctrl Alt Shift C  引用   类的话是类名，包是包名
+
+
+Ctrl Shift V 最近粘贴的选项
+
+
+Alt Insert  添加
+
+Alt  s     jsonformat 根据json文件生成对象
+
+
+idea  不展示maven选项， Ctrl Shift A   
+add maven project ，然后选择对应的pom文件即可。
+
+也可以 按两下shift ,之后选择action,
+后续操作相同——add maven project ，然后选择对应的pom文件即可。
+
+
+
+翻译快捷按  已修改
+
+
+ctrl shift q  搜索
+ctrl alt q  选中翻译
+
+
+
+
+
+
+
+[IDEA] IDEA修改选中行颜色
+https://www.jianshu.com/p/8129ef01c66e   caret row 光标所在行
+
+
+
+
+
+前段的快捷键
+
+table     div#id自动补全	<div id="id"></div>  
