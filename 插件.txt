@@ -1,0 +1,99 @@
+﻿One Dark theme					主题
+
+
+Alibaba Java Coding Guidelines	java代码规范插件
+Codota AI Autocomplete for java  辅助开发神器		自动提示,使用范例
+
+
+Mybatis Log plugin			   控制显示执行的sql
+
+MyBatisCodeHelperPro			生成xml，实体类，表 service mapper等
+	
+
+	generate xxx testcase
+
+	jdbc:mysql://192.168.56.10:3306/test?useUnicode=true;characterEncoding=utf8;useSSL=false;serverTimezone=GMT%2B8
+	com.mysql.cj.jdbc.Driver
+
+
+MybatisX			？？？？
+
+Grep Console	控制台调色
+
+
+
+Maven Helper	看maven依赖
+
+
+
+
+JUnitGenerator V2.0				生成单元测试
+	go to test
+
+GenerateAllSetter			自动生成get set
+	
+	alt 回车
+
+
+GenerateSerialVersionUID		
+	alt +  insert
+
+GsonFormat					根据json生成实体类
+
+CamelCase					驼峰转换
+	alt shift u
+
+StringManipulation 			字符串操作
+
+
+Translation					翻译
+
+
+Key Promoter X				快捷键提示
+
+
+.ignore		忽略文件
+
+
+
+Lombok
+
+Lombok Builder		
+
+
+
+RestfulToolKit		  根据路由查找接口，idea发送http请求
+
+
+
+SequenceDiagram		接口时序图
+
+
+
+highlightBracketPair		高亮括号
+
+
+
+jclasslib bytecode viewer  		查看字节码插件
+
+
+translation 		翻译
+
+
+Key Promoter X		快捷键提示
+
+
+
+
+CodeGlance	小地图
+
+
+
+
+
+
+
+
+Handlebars/Mustache		前端js插件  好久没用,忘记了
+
+
